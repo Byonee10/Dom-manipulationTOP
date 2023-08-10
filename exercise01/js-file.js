@@ -30,6 +30,7 @@ btn2.addEventListener('click', () => {
 
 /* exercise counter */
 
+/*created plus button dynamically for fun */
 const buttonPlus = document.createElement("button");
 const buttonMinus = document.querySelector("#minus");
 body.insertBefore(buttonPlus,p);
